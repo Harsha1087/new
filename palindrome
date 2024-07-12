@@ -3,6 +3,5 @@
 pali=input("Enter the number or string or number + string \n") 
 if(pali==pali[::-1]):
     print("It is palindrome")
-
 else:
     print("It is not a palindrome")# new
